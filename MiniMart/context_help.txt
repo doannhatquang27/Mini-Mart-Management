@@ -1,0 +1,18 @@
+1.User management : 
+            - Full control of users(Add, Edit and Delete)
+            - Set role to user for accessing the system
+2.Product management : 
+            - Full control (Add, Edit and Delete)
+            - Product Info (Id, Name, Category, UnitPrice, Packaging, …)
+3.Inventory Management:
+            - Control on the stock in and out
+            - Check the status of the stock/inventory
+4.Product category management : Full control Category(Add, Edit and Delete)
+5.Billing: Create bill
+6.Reporting:
+            - Sale report
+            - Inventory Report
+            - Income Statement Report: Profit and loss by period
+7.Support
+            - Multi-languages support for VN, EN
+            - Context help
